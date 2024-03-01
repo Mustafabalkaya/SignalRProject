@@ -1,4 +1,3 @@
-https://github.com/Mustafabalkaya/SignalRProject.git
 
 
 # Asp.Net Core API Order Management with SignalR and QR Codes
